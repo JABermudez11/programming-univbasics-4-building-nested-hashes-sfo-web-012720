@@ -30,7 +30,7 @@ def monopoly_with_third_tier
 				:name1 => "",
 				:name2 => "",
 				:name3 => "",
-				:name4 => "",
+				:name4 => ""
 			}
 		}
 	}
